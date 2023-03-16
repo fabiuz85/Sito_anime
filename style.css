@@ -1,0 +1,11 @@
+.logo_nav{
+    height: 40px;
+    width: 40px;
+}
+@font-face {
+    font-family: testo;
+    src: url(./media/one\ piece\ font.ttf);
+}
+.fontOP{
+    font-family: testo;
+}
