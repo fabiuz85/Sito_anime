@@ -1,9 +1,16 @@
 @font-face {
     font-family: OPfont;
-    src: url(./media/one\ piece\ font.ttf);
+    src: url(./media/OPfont2.ttf);
+}
+@font-face {
+    font-family: otaku;
+    src: url(./media/otaku.ttf);
 }
 .fontOP{
     font-family: OPfont;
+}
+.fontotaku{
+    font-family: otaku;
 }
 .logo_nav{
     height: 1.25rem;
@@ -11,6 +18,15 @@
 }
 .title_nav{
     font-size: 1.25rem;
+}
+.navbar-toggler {
+    padding: var(--bs-navbar-toggler-padding-y) var(--bs-navbar-toggler-padding-x);
+    font-size: var(--bs-navbar-toggler-font-size);
+    line-height: 1;
+    color: var(--bs-navbar-color);
+    border: var(--bs-border-width) solid var(--bs-navbar-toggler-border-color);
+    border-radius: var(--bs-navbar-toggler-border-radius);
+    transition: var(--bs-navbar-toggler-transition);
 }
 .bg_header{
   background-image: url(./media/header-bg.jpg);
@@ -70,6 +86,9 @@
     .title_subtitle{
         font-size: 4.5rem;
     }
+}
+.bg_box{
+    background-image: linear-gradient(to bottom right, rgba(255,0,0,.8), rgba(255,165,0,.8), rgba(255,215,0,.8), rgba(255,165,0,.8), rgba(255,0,0,.8));
 }
 @media screen and (min-width: 1200px) {
     .title_nav{
