@@ -1,9 +1,9 @@
 @font-face {
-    font-family: testo;
+    font-family: OPfont;
     src: url(./media/one\ piece\ font.ttf);
 }
 .fontOP{
-    font-family: testo;
+    font-family: OPfont;
 }
 .logo_nav{
     height: 1.25rem;
