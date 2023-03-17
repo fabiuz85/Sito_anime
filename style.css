@@ -9,3 +9,9 @@
 .fontOP{
     font-family: testo;
 }
+
+.bg_header{
+  background-image: url('https://mdbcdn.b-cdn.net/img/new/slides/041.webp');
+  height: 50vh;
+
+}
