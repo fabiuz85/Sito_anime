@@ -64,14 +64,95 @@
     font-size: 1.1rem;
 }
 .carouselimg_size{
-    width: 7rem;
-    height: 7rem;
+   height: 7rem;
+   width: 5rem; 
 }
 .img_size{
-    width: 100%;
-    height: 100%;
+    width: 60%;
+    height: 60%;
     object-fit: cover;
 }
+.bg_deathnote{
+    background-image: url(https://e1.pxfuel.com/desktop-wallpaper/989/953/desktop-wallpaper-anime-death-note-death-note-mobile.jpg);
+    background-size: cover;
+}
+.bg_assclass{
+    background-image: url(https://rare-gallery.com/uploads/posts/554028-assassination.jpg);
+    background-size: cover;
+}
+.bg_blackclover{
+    background-image: url(https://image.winudf.com/v2/image1/Y29tLmFzdW5hLmFwcC53YWxscGFwZXIuYmxhY2tjbG92ZXJfc2NyZWVuXzBfMTYyOTc1MTA1M18wNDg/screen-0.jpg?fakeurl=1&type=.webp);
+    background-size: cover;
+}
+.bg_bleach{
+    background-image: url(https://wallpapers.com/images/featured/kzmktls7sxzz28wc.jpg);
+    background-size: cover;
+}
+.bg_bokunoheroacademia{
+    background-image: url(https://rare-gallery.com/uploads/posts/324410-All-Might-My-Hero-Academia-4K-iphone-wallpaper.jpg);
+    background-size: cover;
+}
+.bg_demonslayer{
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/images6/Demon-Slayer-Desktop-Wallpaper-4K-HD.jpg);
+    background-size: cover;
+}
+.bg_conan{
+    background-image: url(https://wallpapers.com/images/featured/da0oeouxfufv9tan.jpg);
+    background-size: cover;
+}
+.bg_eva{
+    background-image: url(https://i.redd.it/hze2ck753nr51.png);
+    background-size: cover;
+}
+.bg_madeinabyss{
+    background-image: url(https://wallpaperwaifu.com/wp-content/uploads/2019/10/immortality-made-in-abyss-thumb.jpg);
+    background-size: cover; 
+}
+.bg_madoka{
+    background-image: url(https://e0.pxfuel.com/wallpapers/695/823/desktop-wallpaper-madoka-kyubey.jpg);
+    background-size: cover; 
+}
+.bg_monster{
+    background-image: url(https://wallpapercave.com/wp/wp3084743.jpg);
+    background-size: cover; 
+}
+.bg_nanatsunotaizai{
+    background-image: url(https://www.nawpic.com/media/2020/nawpic-214.jpg);
+    background-size: cover;  
+}
+.bg_naruto{
+    background-image: url(https://cdn.wallpapersafari.com/79/16/y8SwLR.jpg);
+    background-size: cover;  
+}
+.bg_narutoshippuden{
+    background-image: url(https://i.pinimg.com/originals/a8/55/eb/a855eb13a85070f7b63ad618310a0110.jpg);
+    background-size: cover;  
+}
+.bg_onepiece{
+    background-image: url(https://w0.peakpx.com/wallpaper/29/108/HD-wallpaper-monkey-d-luffy-adventure-anime-going-merry-one-piece-sea-ships-sky.jpg);
+    background-size: cover;  
+}
+.bg_opm{
+    background-image: url(https://wallpapercave.com/wp/wp6695717.jpg);
+    background-size: cover;  
+}
+.bg_overlord{
+    background-image: url(https://w0.peakpx.com/wallpaper/51/688/HD-wallpaper-overlord-ainz-ooal-gown-anime-iphone-momonga-samsung-skull.jpg);
+    background-size: cover;  
+}
+.bg_steinsgate{
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/images6/Steins-Gate-HD-Wallpaper-Free-download.png);
+    background-size: cover;  
+}
+.bg_tg{
+    background-image: url(https://e0.pxfuel.com/wallpapers/792/879/desktop-wallpaper-tokyo-ghoul-top-best-tokyo-ghoul-and-tokyo-ghoul-logo.jpg);
+    background-size: cover;  
+}
+.bg_toradora{
+    background-image: url(https://e1.pxfuel.com/desktop-wallpaper/768/432/desktop-wallpaper-anime-toradora-toradora-phone.jpg);
+    background-size: cover;  
+}
+
 .bg_footer{
     background-image: linear-gradient(rgba(65, 53, 2, 0.748),rgba(55, 24, 2, 0.77),rgb(59, 11, 11),rgba(28, 28, 28, 0.593),black);
 }
