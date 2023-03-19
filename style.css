@@ -64,8 +64,7 @@
     font-size: 1.1rem;
 }
 .carouselimg_size{
-   height: 7rem;
-   width: 5rem; 
+   width: 12rem; 
 }
 .img_size{
     width: 60%;
@@ -221,4 +220,32 @@
     .text_size_box{
         font-size: 2.9rem;
     }
+    .carouselimg_size{
+        width: 15rem; 
+     }
+}
+@media screen and (min-width: 1400px) {
+    .title_nav{
+        font-size: 2.8rem;
+    }
+    .logo_nav{
+        height: 2.8rem;
+        width: 2.8rem;
+    }
+    .title_header {
+        font-size: 10rem;
+    }
+    .logo_header{
+        height: 10rem;
+        width: 10rem;
+    }
+    .title_subtitle{
+        font-size: 5rem;
+    }
+    .text_size_box{
+        font-size: 2.9rem;
+    }
+    .carouselimg_size{
+        width: 18rem; 
+     }
 }
