@@ -67,8 +67,8 @@
    width: 12rem; 
 }
 .img_size{
-    width: 60%;
-    height: 60%;
+    width: 100%;
+    height: 100%;
     object-fit: cover;
 }
 .bg_deathnote{
@@ -151,7 +151,10 @@
     background-image: url(https://e1.pxfuel.com/desktop-wallpaper/768/432/desktop-wallpaper-anime-toradora-toradora-phone.jpg);
     background-size: cover;  
 }
-
+.bg_bluelock{
+    background-image: url(./media/Anime_foto/Img_card/Bluelock.jpg);
+    background-size: cover;
+}
 .bg_footer{
     background-image: linear-gradient(rgba(65, 53, 2, 0.748),rgba(55, 24, 2, 0.77),rgb(59, 11, 11),rgba(28, 28, 28, 0.593),black);
 }
